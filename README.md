@@ -2,7 +2,7 @@
 - 👀 I’m interested in you
 - 🌱 I’m currently learning nothing
 - 💞️ I’m looking to collaborate on coding
-- 📫 How to reach me no need
+- 📫 How to reach me just pm @WeeWeeHunter in telegram
 
 <!---
 Insane0769/Insane0769 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
