@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Insane0769
+- 👋 Hi, I’m Insane
 - 👀 I’m interested in you
 - 🌱 I’m currently learning nothing
 - 💞️ I’m looking to collaborate on coding
-- 📫 How to reach me just pm @WeeWeeHunter in telegram
+- 📫 How to reach me just pm @Kinda_Average in telegram
 
 <!---
 Insane0769/Insane0769 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
